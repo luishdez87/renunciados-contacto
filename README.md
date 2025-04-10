@@ -9,6 +9,6 @@ Si tienes dudas, sugerencias, quieres reportar errores o simplemente dar feedbac
 ---
 **🚀 Cómo contribuir**
 
-- Crea un nuevo [issue](https://github.com/luishdez87/contacto/issues)
+- Crea un nuevo [issue](https://github.com/luishdez87/renunciados-contacto/issues)
 - Usa un título claro
 - Explica tu duda o reporte con el mayor contexto posible
